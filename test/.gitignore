@@ -1,0 +1,4 @@
+# Ignore the "folder_to_exclude" directory
+test/
+
+*.jpynb
